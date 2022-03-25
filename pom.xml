@@ -18,6 +18,5 @@
 
     <modules>
         <module>spring-aop</module>
-        <module>httpclient</module>
     </modules>
 </project>
