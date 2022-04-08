@@ -1,6 +1,5 @@
 package com.example.config.handler;
 
-import com.example.config.JwtTokenUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.userdetails.User;
